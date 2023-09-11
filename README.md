@@ -1,4 +1,4 @@
-# Single-table Design with DynamoDB
+# Single-Table Design with DynamoDB
 
 ## Intro
 DynamoDB is one of the NoSQL databases if the NoSQL terminology is right way to declare it. Here's you can find basic differences between NoSQL and SQL databases.
@@ -18,7 +18,7 @@ Each Order belongs to a certain Customer(add. benefits [Insertion,Update,Delete 
 Joins allow you to combine records from two or more tables at read-time.
 
 ## DynamoDB
-DynamoDB is a fully managed AWS product for NoSQL databases. 
+DynamoDB is a fully managed AWS product for NoSQL database. 
 
 ![DDB](./img/002-dynamodb.png)
 
@@ -116,12 +116,10 @@ Endpoints:
 Modeling Documentation Link: https://docs.google.com/spreadsheets/d/12bi05TAes_OxXC5RvDlZdj3RlFQ64fwRAD4mQry26gM/edit?usp=sharing
 
 ### Demo Source Links
-- Link1[https://www.youtube.com/watch?v=Q6-qWdsa8a4]
-- Link2[https://github.com/alexdebrie/dynamodb-instagram]
+- Link1[https://github.com/alexdebrie/dynamodb-instagram]
+- Link2[https://www.youtube.com/watch?v=Q6-qWdsa8a4]
 
 ## References
 - Link1[https://www.dynamodbbook.com/]
 - Link2[https://www.youtube.com/watch?v=jzeKPKpucS0]
 - Link3[https://www.youtube.com/watch?v=Q6-qWdsa8a4]
-
-
